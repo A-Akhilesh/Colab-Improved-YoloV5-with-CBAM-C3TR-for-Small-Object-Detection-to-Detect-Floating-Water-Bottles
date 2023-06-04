@@ -1,4 +1,4 @@
-# Improved-YoloV5-with-CBAM-C3TR-for-Small-Object-Detection-with-Floating-Water-Bottles
+# Colab-Improved-YoloV5-with-CBAM-C3TR-for-Small-Object-Detection-with-Floating-Water-Bottles
 
 ## Replace The default YoloV5 Files Before Runnin the Training Cell
 The Changes are Following:
