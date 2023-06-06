@@ -1,5 +1,8 @@
 # Colab-Improved-YoloV5-with-CBAM-C3TR-for-Small-Object-Detection-with-Floating-Water-Bottles
 
+* Run the code one cell at a time
+* Default Yolo model from Ultralytics will be cloned
+
 ## Replace The default YoloV5 Files Before Running the Training Cell
 The Changes are Following:
   * Replace Yolov5x.yaml in yolov5/models
